@@ -31,5 +31,6 @@ $min = Date("i");
 ?>
 <img src="<?php echo $image_url;?>" id="image">
 <?php include "footer.php"; ?>
+<?php include "nav.php"; ?>
 </body>
 </html>
